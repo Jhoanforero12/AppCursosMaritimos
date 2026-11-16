@@ -1,8 +1,7 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Base.Theme.AulaMaritima" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+<resources>
+    <style name="Base.Theme.AulaMaritima" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/azul_oscuro</item>
+        <item name="colorAccent">@color/azul_oscuro</item>
     </style>
 
     <style name="Theme.AulaMaritima" parent="Base.Theme.AulaMaritima" />
